@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/isnow_yt" target="blank"><img src="https://img.shields.io/twitter/follow/isnow_yt?logo=twitter&style=for-the-badge" alt="isnow_yt" /></a> </p>
 
-- 🔭 I’m currently working on **BITAC**
+- 🔭 I’m currently working on **FoxAC**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Express**
 
 - 👯 I’m looking to collaborate on **Anticheats/Plugins/Minecraft Servers**
 
-- 👨‍💻 All of my projects are available at [https://isnow.dev](https://isnow.dev)
+- 👨‍💻 All of my projects are available here!
 
 - 💬 Ask me about **Java**
 
