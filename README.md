@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Discord: 5170#5170**
+- 📫 How to reach me **Discord: 5170#1873**
 
 - 📄 Know about my experiences [https://isnow.dev](https://isnow.dev)
 
-- ⚡ Fun fact **I am a weeb :Trolle:**
+- ⚡ Fun fact **I love among us**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
