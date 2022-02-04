@@ -9,19 +9,13 @@
 
 - 🔭 I’m currently working on **FoxAC**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Anticheats/Plugins/Minecraft Servers**
+- 👨‍💻 Most of my projects are available here!
 
-- 👨‍💻 All of my projects are available here!
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **Discord: 5170#1873**
+- 📫 How to reach me **Discord: 5170#5170**
 
 - 📄 Know about my experiences [https://isnow.dev](https://isnow.dev)
-
-- ⚡ Fun fact **I love among us**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
