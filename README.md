@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://isnow.dev](https://isnow.dev)
 
-<p align="center">
+<p>
   <img src="https://discord.c99.nl/widget/theme-4/921098377536602132.png" />
 </p>
 
