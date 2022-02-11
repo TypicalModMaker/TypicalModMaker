@@ -17,6 +17,10 @@
 
 - 📄 Know about my experiences [https://isnow.dev](https://isnow.dev)
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/921098377536602132.png" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isnowyt1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isnowyt1337" height="30" width="40" /></a>
