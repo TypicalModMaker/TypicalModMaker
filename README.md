@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Isnow/5170</h1>
-<h3 align="center">A passionate java developer from Germany 🇩🇪</h3>
+<h1 align="center">Hello 👋, I'm 5170</h1>
+<h3 align="center">A passionate java developer and system administrator from Poland ᴘʟ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typicalmodmaker&label=Profile%20views&color=0e75b6&style=flat" alt="typicalmodmaker" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/isnow_yt" target="blank"><img src="https://img.shields.io/twitter/follow/isnow_yt?logo=twitter&style=for-the-badge" alt="isnow_yt" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing lmfao**
+- 🔭 I’m currently working on **Securing servers**
 
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 Most of my projects are available here!
 
-- 📫 How to reach me **Discord: 5170#5170**
+- 📫 How to reach me **Discord: arbitrarycodeexecution**
 
-- 📄 Know about my experiences [https://isnow.dev](https://isnow.dev)
+- 📄 Know about my experiences [https://bestsysadmin.me](https://bestsysadmin.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
